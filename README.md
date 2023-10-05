@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atom
 - 👀 I’m interested in IT, history and politics.
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning HTML and lots of other stuff
 - 
 - coding for school (C# / C++)
 
