@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atom
 - 👀 I’m interested in IT, history and politics.
 - Currently learning Java and C/C++
-- My languages: Java, C# and a little bit of HTML & CSS (please don't ask me something about that) 
+- My languages: Java, C# and a little bit of HTML
 - Currently studying computer science at the HTWG Constance, Germany
 - Have fun with my code
