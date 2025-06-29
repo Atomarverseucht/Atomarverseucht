@@ -5,3 +5,4 @@
 - Have fun with my code
 
 [![Meist genutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomarverseucht&hide=MakeFile)](https://github.com/anuraghazra/github-readme-stats)
+![Atoms GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomarverseucht&show_icons=true&theme=radical)
