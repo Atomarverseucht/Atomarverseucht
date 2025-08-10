@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atom
 - 👀 I’m interested in IT, history and politics.
-- Currently learning Java, PL/SQL and C/C++
+- Currently learning Java
 - Currently studying computer science at the HTWG Constance, Germany
 - Have fun with my code
 
