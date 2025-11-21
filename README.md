@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atom
 - 👀 I’m interested in IT, history and politics.
-- Currently learning Java, Scala and more
+- Currently learning Scala and Python
 - Currently studying computer science at the HTWG Constance, Germany
 - Have fun with my code
 
