@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Atom
 - 👀 I’m interested in IT, history and politics.
 - Currently learning TypeScript
+- I can: Java, C#, Scala, Python, SQL (PostGresSQL and Oracle) and C
 - Currently studying computer science at the HTWG Constance, Germany
 - Have fun with my code
 
